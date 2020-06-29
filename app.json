@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#FFFFFF",
+    "navigationBarTextStyle":"black",
+    "navigationBarTitleText":"工程管理系统",
+    "backgroundColor":"#FFFFFF",
+    "backgroundTextStyle":"light"
+  },
+  "style":"v2",
+  "sitemapLocation":"sitemap.json"
+}
